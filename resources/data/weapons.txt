@@ -1,0 +1,48 @@
+can
+current_ammo=30
+max_ammo=30
+stored_ammo=30
+damage=5
+attack_speed=1.0
+reload_speed=1.0
+range=50
+end can
+
+chungus rifle
+current_ammo=6
+max_ammo=6
+stored_ammo=36
+damage=10
+attack_speed=0.75
+end chungus rifle
+
+Fist
+current_ammo=1000
+max_ammo=1000
+stored_ammo=0
+damage=5
+attack_speed=0.3
+reload_speed=0.3
+range=10
+end Fist
+
+Shotgun
+current_ammo=20
+max_ammo=20
+stored_ammo=0
+damage=10
+attack_speed=1.3
+reload_speed=1.0
+range=20
+end Shotgun
+
+
+Pistol
+current_ammo=30
+max_ammo=30
+stored_ammo=0
+damage=6
+attack_speed=0.6
+reload_speed=2.0
+range=50
+end Pistol

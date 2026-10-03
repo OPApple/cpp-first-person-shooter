@@ -1,0 +1,12 @@
+#### WEAPONS ####
+Fist
+1000
+0
+can
+10
+20
+#### STATS ####
+69
+1
+#### MAP ####
+second.txt

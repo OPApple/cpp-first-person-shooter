@@ -1,0 +1,38 @@
+>^^^^^^^<
+>000>000<
+>0L0>000<
+>0>^^^^^<
+>0>vvv00<
+>000000P<
+>^^^^^^^<
+#### ENEMY LEGEND START ####
+@=ananas
+$=base-can
+%=seriously
+g=gorilla
+V=valdu
+j=johnmulg
+t=jallu
+#### PICKUP LEGEND START ####
+A=ammo
+H=burger
+M=megis
+G=can
+C=chungus rifle
+N=lasagne
+#### TEXTURE LEGEND START ####
+0=vihrea.jpg
+c=taivasta.jpg
+<=jotainvaloja.jpg
+>=jotainvaloja.jpg
+^=jotainvaloja.jpg
+v=jotainvaloja.jpg
+X=dipsa.jpg
+Y=kandi.jpg
+1=ovi.jpg
+2=ovi.jpg
+#### EXIT LEGEND START ####
+X=second.txt
+Y=third.txt
+#### MUSIC ####
+umg_8k

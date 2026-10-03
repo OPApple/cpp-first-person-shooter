@@ -1,0 +1,34 @@
+>Z^^^^^^^X<
+>000LM0000<
+>AG000000@<
+>0000P0000<
+>^^^^^^^^^<
+#### ENEMY LEGEND START ####
+@=ananas
+$=base-can
+%=seriously
+g=gorilla
+V=valdu
+j=johnmulg
+t=jallu
+#### PICKUP LEGEND START ####
+A=ammo
+H=burger
+M=lohis
+L=lasagne
+G=can
+C=chungus rifle
+#### TEXTURE LEGEND START ####
+0=vihrea.jpg
+c=taivasta.jpg
+<=cityscape.jpg
+v=cityscape3.jpg
+>=rantsulle.jpg
+^=smokinseina1.jpg
+X=dipsa.jpg
+Z=jmt5kuva1.jpg
+#### EXIT LEGEND START ####
+X=final.txt
+Z=first.txt
+#### MUSIC ####
+Wario's Battle Canyon

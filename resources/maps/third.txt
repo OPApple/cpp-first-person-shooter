@@ -1,0 +1,22 @@
+>Z^^^^^^XX<
+>0040030%0<
+>004223000<
+>004003%0P<
+>^^^^^^^^^<
+#### ENEMY LEGEND START ####
+@=ananas
+$=base-can
+%=seriously
+#### PICKUP LEGEND START ####
+A=ammo
+H=burger
+G=can
+C=chungus rifle
+#### TEXTURE LEGEND START ####
+X=container.jpg
+Z=rantsulta.jpg
+#### EXIT LEGEND START ####
+X=second.txt
+Z=first.txt
+#### MUSIC ####
+Wario's Battle Canyon

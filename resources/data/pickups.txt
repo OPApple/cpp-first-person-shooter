@@ -1,0 +1,22 @@
+water:health
+amount=5
+end water
+
+lasagne:hunger
+amount=50
+end lasagne
+
+ammo:ammo
+amount=30
+end ammo
+
+lohis:speed
+time=2.5
+amount=40
+end lohis
+
+can:weapon
+
+Shotgun:weapon
+
+Pistol:weapon

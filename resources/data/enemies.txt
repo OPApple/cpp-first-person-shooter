@@ -1,0 +1,35 @@
+ananas
+hp=5
+damage=2
+range=10
+attack_speed=2.0
+move_speed=0.0
+move_type=1
+end ananas
+
+base-can
+hp=5
+damage=2
+range=2.5
+attack_speed=2.0
+move_speed=5.0
+move_type=2
+end base-can
+
+gorilla
+hp=20
+damage=3
+range=3.5
+attack_speed=1.0
+move_speed=7.0
+move_type=1
+end gorilla
+
+jallu
+hp=15
+damage=3
+range=3.5
+attack_speed=1.0
+move_speed=10.0
+move_type=0
+end jallu
